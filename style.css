@@ -1,0 +1,21 @@
+body {
+color: darkred;
+background: lightgray;
+}
+
+hr{
+height: 6px;
+background-color: darkred;
+}
+
+img{
+    width: 300px;
+    border: 20px solid black;
+    padding: 10px;
+}
+
+
+
+ul{
+    list-style-type: square;
+}
